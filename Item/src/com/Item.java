@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class Item {
-	
+	//comment
 	public Connection connect()
 	{
 	 Connection con = null;
